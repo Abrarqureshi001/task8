@@ -1,11 +1,8 @@
 # Superstore-sales-Dashboard
 Superstore sales Dashboard - PowerbI
-📊 I'm excited to share my inaugural Power BI Dashboard, which was expertly guided by Sir Rishab Mishra! 🚀
-
+📊 I'm excited to share my inaugural Power BI Dashboard,
 This project harmoniously combines the art of data analysis and visualization, resulting in a symphony of actionable insights. 💡
 
-Objective:
-My goal is to enhance business success through the skilled application of data analysis techniques, with a specialized focus on the intricate realm of time series analysis. This enables me to provide invaluable insights and accurate sales forecasts.
 
 Components:
 
